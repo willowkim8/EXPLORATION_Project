@@ -4,5 +4,4 @@ CV + NLP 혼합
 
 ## Prerequisites
 >Ubuntu 18.04  
-python3.xx  
-
+python 3.xx  
